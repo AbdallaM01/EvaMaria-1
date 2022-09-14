@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
+    CHANNELS_TXT = """<b>NOTE:</b>
 𝚂𝚎𝚛𝚒𝚎𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕
 https://t.me/+zqd9DiraQkM2NWZk
 
@@ -24,7 +24,7 @@ https://t.me/TorrentSerie
 https://t.me/ArrowFlix
 
 <b>DEVS:</b>
-- <a href=https://t.me/ArrowFlix>𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡>Team dangerbots</a>"""
+- <a href=https://t.me/ArrowFlix>𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝑺𝒏𝒐𝒘 𝑾𝒉𝒊𝒕𝒆 will respond whenever a keyword is found the message
