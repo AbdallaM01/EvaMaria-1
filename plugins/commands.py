@@ -50,10 +50,10 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🌐 About', callback_data='about')
         ], [
-            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix')
+            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/TorrentSerie')
         ], [
-            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk')
+            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk'),
             InlineKeyboardButton('🍿 Movies', url='https://t.me/ArrowFlixMovies')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -102,10 +102,10 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🌐 About', callback_data='about')
         ], [
-            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix')
+            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/TorrentSerie')
         ], [
-            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk')
+            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk'),
             InlineKeyboardButton('🍿 Movies', url='https://t.me/ArrowFlixMovies')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
