@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/Teamfoxbots')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/ArrowFlix')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -43,12 +43,18 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
+        ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('⚜️Owner', url='https://t.me/am_dq_fa')
-            ],[
+            InlineKeyboardButton('⚜️ Owner', url='https://t.me/a_magdy7')
+        ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('🌐 About', callback_data='about')
+        ], [
+            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/TorrentSerie')
+        ], [
+            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk')
+            InlineKeyboardButton('🍿 Movies', url='https://t.me/ArrowFlixMovies')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -89,12 +95,18 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
+        ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('⚜️Owner', url='https://t.me/am_dq_fa')
-            ],[
+            InlineKeyboardButton('⚜️ Owner', url='https://t.me/a_magdy7')
+        ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('🌐 About', callback_data='about')
+        ], [
+            InlineKeyboardButton('💎 Support', url='https://t.me/ArrowFlix')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/TorrentSerie')
+        ], [
+            InlineKeyboardButton('⚡ Series', url='https://t.me/+zqd9DiraQkM2NWZk')
+            InlineKeyboardButton('🍿 Movies', url='https://t.me/ArrowFlixMovies')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
