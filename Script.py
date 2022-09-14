@@ -11,18 +11,12 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     CHANNELS_TXT = """<b>NOTE:</b>
-
 𝚂𝚎𝚛𝚒𝚎𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕
 https://t.me/+zqd9DiraQkM2NWZk
-
 𝙼𝚘𝚟𝚒𝚎𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 
 https://t.me/ArrowFlixMovies
-
 𝙼𝚊𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕
 https://t.me/TorrentSerie
-
-𝙶𝚛𝚘𝚞𝚙
-https://t.me/ArrowFlix
 
 <b>DEVS:</b>
 - <a href=https://t.me/ArrowFlix>𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡></a>"""
