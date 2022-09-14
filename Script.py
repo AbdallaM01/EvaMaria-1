@@ -41,7 +41,7 @@ https://t.me/ArrowFlix
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- 𝑺𝒏𝒐𝒘 𝑾𝒉𝒊𝒕𝒆 Supports both url and alert inline buttons.
+- 𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -76,7 +76,7 @@ https://t.me/ArrowFlix
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of 𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
