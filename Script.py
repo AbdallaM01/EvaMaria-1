@@ -21,7 +21,7 @@ https://t.me/TorrentSerie
 - <a href=https://t.me/ArrowFlix>𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and 𝑺𝒏𝒐𝒘 𝑾𝒉𝒊𝒕𝒆 will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. 𝙰𝚛𝚛𝚘𝚠𝙵𝚕𝚒𝚡 should have admin privillage.
